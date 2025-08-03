@@ -1,0 +1,2 @@
+The folders within this directory contain the final configurations, files necessary to run the simulations and the analysis scripts that have been used/generated for the manuscript entitled "Drug-Dependent Modulation of Micelle Morphology and
+Encapsulation in Triton X-100 Systems" by Melissa Jade Mitchell, Hrachya Ishkhanyan, Martin B. Ulmschneider & Christian D. Lorenz, which is currently under review at _Nanoscale_. __
