@@ -1,0 +1,19 @@
+define                  = -DREST_ON -DSTEP6_0
+integrator              = steep
+emtol                   = 1000.0
+nsteps                  = 5000
+implicit-solvent        = no
+
+nstlist                 = 10
+cutoff-scheme           = Verlet
+rlist                   = 1.0
+vdwtype                 = Cut-off
+vdw-modifier            = Potential-shift-verlet
+rvdw_switch             = 1.0
+rvdw                    = 1.2
+coulombtype             = Cut-off
+rcoulomb                = 1.2
+;
+constraints             = h-bonds
+constraint_algorithm    = LINCS
+
